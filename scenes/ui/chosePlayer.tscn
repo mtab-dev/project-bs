@@ -1,6 +1,6 @@
 [gd_scene load_steps=33 format=3 uid="uid://caq6g7ot52f6i"]
 
-[ext_resource type="Script" path="res://scripts/ui/chosePlayer.gd" id="1_o5jkr"]
+[ext_resource type="Script" uid="uid://bc2xw66q6vi25" path="res://scripts/ui/chosePlayer.gd" id="1_o5jkr"]
 [ext_resource type="Texture2D" uid="uid://dwu18gldx5boy" path="res://sprites/ui/menu/pauseOverlay.webp" id="1_qgvrw"]
 [ext_resource type="Texture2D" uid="uid://1jh5twgehce8" path="res://sprites/player/jaopreto/Jaoparado/jaoparado1.png" id="3_8l0ou"]
 [ext_resource type="Texture2D" uid="uid://crqyjpv2p15xt" path="res://sprites/player/jaomoreno/Jaoparado/jaoparado1.png" id="3_45b2n"]

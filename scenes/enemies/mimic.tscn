@@ -1,6 +1,6 @@
 [gd_scene load_steps=52 format=3 uid="uid://bra8irvswlh2i"]
 
-[ext_resource type="Script" path="res://scripts/enemies/mimic.gd" id="1_5cwa8"]
+[ext_resource type="Script" uid="uid://bvmlngv2lrhv3" path="res://scripts/enemies/mimic.gd" id="1_5cwa8"]
 [ext_resource type="Texture2D" uid="uid://dcftcu4x3hff7" path="res://sprites/enemies/mimic/attack_two/BauATAQUEnormal1.png" id="1_otuiq"]
 [ext_resource type="Texture2D" uid="uid://by4i8tvm1b6hq" path="res://sprites/enemies/mimic/attack_two/BauATAQUEnormal2.png" id="2_fhxn7"]
 [ext_resource type="Texture2D" uid="uid://cc6h0en3yrf5r" path="res://sprites/enemies/mimic/attack_two/BauATAQUEnormal3.png" id="3_p1b0a"]
@@ -43,11 +43,11 @@
 [ext_resource type="Texture2D" uid="uid://cmho0y0bhetww" path="res://sprites/enemies/mimic/walking/BauANDANDO4.png" id="29_0qemh"]
 [ext_resource type="Texture2D" uid="uid://bx6yyubr46jkk" path="res://sprites/enemies/mimic/walking/BauANDANDO5.png" id="30_lhq2k"]
 [ext_resource type="PackedScene" uid="uid://cdiki20gqftah" path="res://scenes/enemies/ui/healthBar.tscn" id="32_5yc26"]
-[ext_resource type="Script" path="res://scripts/states/stateMachine.gd" id="33_kia21"]
-[ext_resource type="Script" path="res://scripts/enemies/mimic/idleState.gd" id="34_1s0x5"]
-[ext_resource type="Script" path="res://scripts/enemies/mimic/chaseState.gd" id="35_y4i3l"]
-[ext_resource type="Script" path="res://scripts/enemies/mimic/wakingState.gd" id="36_b76ve"]
-[ext_resource type="Script" path="res://scripts/enemies/mimic/mimicDeath.gd" id="48_atg6p"]
+[ext_resource type="Script" uid="uid://v0msg3mp8gem" path="res://scripts/states/stateMachine.gd" id="33_kia21"]
+[ext_resource type="Script" uid="uid://b6dy382ssquse" path="res://scripts/enemies/mimic/idleState.gd" id="34_1s0x5"]
+[ext_resource type="Script" uid="uid://bclff0lpqwe1h" path="res://scripts/enemies/mimic/chaseState.gd" id="35_y4i3l"]
+[ext_resource type="Script" uid="uid://djta1qv3n6j3" path="res://scripts/enemies/mimic/wakingState.gd" id="36_b76ve"]
+[ext_resource type="Script" uid="uid://bjh58a1dbav2n" path="res://scripts/enemies/mimic/mimicDeath.gd" id="48_atg6p"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_td4oq"]
 animations = [{

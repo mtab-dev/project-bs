@@ -1,7 +1,7 @@
 [gd_scene load_steps=12 format=3 uid="uid://bmcxw2nppu7n0"]
 
 [ext_resource type="PackedScene" uid="uid://c66pdwsw13cig" path="res://scenes/ui/life.tscn" id="1_di26l"]
-[ext_resource type="Script" path="res://scripts/ui/hudControl.gd" id="1_rc38y"]
+[ext_resource type="Script" uid="uid://cetagy3rfgyor" path="res://scripts/ui/hudControl.gd" id="1_rc38y"]
 [ext_resource type="Texture2D" uid="uid://bbho8avfceu51" path="res://sprites/ui/hud/candy_coin.webp" id="3_ljc6p"]
 [ext_resource type="PackedScene" uid="uid://dmr0fcamx7t56" path="res://addons/virtual_joystick/virtual_joystick_scene.tscn" id="4_4bg5t"]
 [ext_resource type="FontFile" uid="uid://l2iyicn4hyea" path="res://assets/font/thaleah_fat.ttf" id="4_67apo"]
@@ -9,7 +9,7 @@
 [ext_resource type="Texture2D" uid="uid://cule5aninb5qn" path="res://sprites/tela de compra/boots.webp" id="6_nrim4"]
 [ext_resource type="Texture2D" uid="uid://b5wtc2ntq5lss" path="res://sprites/ui/hud/bullet_candy.webp" id="6_w835x"]
 [ext_resource type="Texture2D" uid="uid://cpfiymya4kuf8" path="res://assets/ui/pause-button.png" id="7_blqxo"]
-[ext_resource type="Shader" path="res://scripts/ui/daltLayer.gdshader" id="10_xj6ab"]
+[ext_resource type="Shader" uid="uid://b13v6ubpclyv0" path="res://scripts/ui/daltLayer.gdshader" id="10_xj6ab"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_wsia7"]
 shader = ExtResource("10_xj6ab")

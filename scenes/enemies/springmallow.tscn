@@ -1,7 +1,7 @@
 [gd_scene load_steps=19 format=3 uid="uid://clh64akakowm6"]
 
 [ext_resource type="Texture2D" uid="uid://bvxl2o10r6nvi" path="res://sprites/enemies/springmallow/attack/side/marshATAQUE1.png" id="1_dmmux"]
-[ext_resource type="Script" path="res://scripts/enemies/springmallow/springmallow.gd" id="1_grr31"]
+[ext_resource type="Script" uid="uid://cx5m5civmebqs" path="res://scripts/enemies/springmallow/springmallow.gd" id="1_grr31"]
 [ext_resource type="Texture2D" uid="uid://dac6aya2n12kb" path="res://sprites/enemies/springmallow/attack/side/marshATAQUE2.png" id="2_gcymr"]
 [ext_resource type="Texture2D" uid="uid://d1hvu2a5osfbi" path="res://sprites/enemies/springmallow/idle/marsh1.png" id="2_qdrhn"]
 [ext_resource type="Texture2D" uid="uid://3ptrkt851xcm" path="res://sprites/enemies/springmallow/idle/marsh2.png" id="3_0d2x2"]
@@ -14,8 +14,8 @@
 [ext_resource type="Texture2D" uid="uid://wcf64f0yaa3j" path="res://sprites/enemies/springmallow/attack/side/marshATAQUE7.png" id="7_iafgw"]
 [ext_resource type="Texture2D" uid="uid://cmlxq5ucmvsjk" path="res://sprites/enemies/springmallow/attack/side/marshATAQUE8.png" id="8_md12v"]
 [ext_resource type="Texture2D" uid="uid://u12u2vr2q756" path="res://sprites/enemies/springmallow/attack/side/marshATAQUE9.png" id="9_o6ixh"]
-[ext_resource type="Script" path="res://scripts/states/stateMachine.gd" id="11_oxech"]
-[ext_resource type="Script" path="res://scripts/enemies/springmallow/springIdle.gd" id="12_5ephe"]
+[ext_resource type="Script" uid="uid://v0msg3mp8gem" path="res://scripts/states/stateMachine.gd" id="11_oxech"]
+[ext_resource type="Script" uid="uid://dxp6gbhm0ooev" path="res://scripts/enemies/springmallow/springIdle.gd" id="12_5ephe"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_j4fek"]
 radius = 12.0

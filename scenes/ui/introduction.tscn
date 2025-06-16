@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://cryurjlljcfqc"]
 
 [ext_resource type="Texture2D" uid="uid://lefgd2k08sw4" path="res://sprites/ui/cutscenes/intro.webp" id="1_5ypy1"]
-[ext_resource type="Script" path="res://scripts/ui/introduction.gd" id="1_yenme"]
+[ext_resource type="Script" uid="uid://csxvwmbqb5r52" path="res://scripts/ui/introduction.gd" id="1_yenme"]
 [ext_resource type="Theme" uid="uid://cjoyqre1lp47" path="res://assets/themes/buttons.tres" id="3_0jjw8"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_p71ld"]

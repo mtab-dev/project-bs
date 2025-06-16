@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://dxem7xepe1h7l"]
 
 [ext_resource type="Texture2D" uid="uid://k0fwm2gwhyvu" path="res://sprites/bullets/green/BALASdearmaVERDE1.png" id="1_gmf8v"]
-[ext_resource type="Script" path="res://scripts/object/boss_shot.gd" id="1_huvup"]
+[ext_resource type="Script" uid="uid://cycm32kka15co" path="res://scripts/object/boss_shot.gd" id="1_huvup"]
 [ext_resource type="Texture2D" uid="uid://clgbuhw6vkmpr" path="res://sprites/bullets/green/BALASdearmaVERDE2.png" id="2_tk7sw"]
 [ext_resource type="Texture2D" uid="uid://cjnh7x3gxy8hb" path="res://sprites/bullets/green/BALASdearmaVERDE3.png" id="3_mfoy4"]
 

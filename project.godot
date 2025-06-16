@@ -12,7 +12,7 @@ config_version=5
 
 config/name="Bullet Speel"
 run/main_scene="res://scenes/levels/main_menu.tscn"
-config/features=PackedStringArray("4.3", "Mobile")
+config/features=PackedStringArray("4.4", "Mobile")
 boot_splash/bg_color=Color(0, 0, 0, 1)
 boot_splash/image="res://assets/ui/bullet_loading.png"
 config/icon="res://sprites/ui/exec-icon.webp"

@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://cjabs2o3kadip"]
 
-[ext_resource type="Script" path="res://scripts/ui/levelMenu.gd" id="1_0048k"]
+[ext_resource type="Script" uid="uid://ctrbive57qjps" path="res://scripts/ui/levelMenu.gd" id="1_0048k"]
 [ext_resource type="Theme" uid="uid://cjoyqre1lp47" path="res://assets/themes/buttons.tres" id="1_e77uw"]
 [ext_resource type="Texture2D" uid="uid://dwu18gldx5boy" path="res://sprites/ui/menu/pauseOverlay.webp" id="2_548jn"]
 

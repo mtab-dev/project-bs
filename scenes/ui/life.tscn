@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://c66pdwsw13cig"]
 
-[ext_resource type="Script" path="res://scripts/ui/hud.gd" id="1_0sl5v"]
+[ext_resource type="Script" uid="uid://cnex8fgxix18b" path="res://scripts/ui/hud.gd" id="1_0sl5v"]
 [ext_resource type="Texture2D" uid="uid://cfudvdex267jh" path="res://sprites/ui/hud/sugar-life.png" id="2_jixhs"]
 
 [node name="life" type="Control" node_paths=PackedStringArray("spr1", "spr2", "spr3")]

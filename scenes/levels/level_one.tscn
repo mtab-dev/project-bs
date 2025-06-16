@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://cbxfk8rpf2aow" path="res://sprites/primeiro andar pronto/andar 1 paredes.png" id="1_5iv1b"]
 [ext_resource type="PackedScene" uid="uid://ixll8salrlv2" path="res://scenes/player/player.tscn" id="1_bvwrk"]
-[ext_resource type="Script" path="res://scripts/levels/level_one.gd" id="1_stlsi"]
+[ext_resource type="Script" uid="uid://bfqyknvutxmj3" path="res://scripts/levels/level_one.gd" id="1_stlsi"]
 [ext_resource type="Texture2D" uid="uid://bpp13dcogdove" path="res://sprites/primeiro andar pronto/andar 1 chão.png" id="1_yfrhe"]
 [ext_resource type="Texture2D" uid="uid://cu8vgabuo1gw6" path="res://sprites/primeiro andar pronto/andar 1 sem colisão.png" id="4_6ysvh"]
 [ext_resource type="Texture2D" uid="uid://c3740m0duu0uu" path="res://sprites/primeiro andar pronto/andar 1 colisão.png" id="5_luhrd"]

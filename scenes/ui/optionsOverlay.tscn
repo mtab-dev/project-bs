@@ -1,7 +1,7 @@
 [gd_scene load_steps=13 format=3 uid="uid://qsxwh0klt3t3"]
 
 [ext_resource type="Texture2D" uid="uid://dwu18gldx5boy" path="res://sprites/ui/menu/pauseOverlay.webp" id="1_4jq23"]
-[ext_resource type="Script" path="res://scripts/ui/menuOptions.gd" id="1_sn8l3"]
+[ext_resource type="Script" uid="uid://qamowr6537ih" path="res://scripts/ui/menuOptions.gd" id="1_sn8l3"]
 [ext_resource type="Theme" uid="uid://cjoyqre1lp47" path="res://assets/themes/buttons.tres" id="3_57hhi"]
 [ext_resource type="Texture2D" uid="uid://2kkxsupxyacs" path="res://sprites/ui/menu/brFlag.webp" id="4_rbaf4"]
 [ext_resource type="Texture2D" uid="uid://c76s03pwp8sfl" path="res://sprites/ui/menu/espFlag.webp" id="5_e74mc"]
@@ -56,9 +56,9 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_1y52q"]
 _data = {
-"RESET": SubResource("Animation_8fwf5"),
-"transIn": SubResource("Animation_1mqk7"),
-"transOut": SubResource("Animation_fkj5i")
+&"RESET": SubResource("Animation_8fwf5"),
+&"transIn": SubResource("Animation_1mqk7"),
+&"transOut": SubResource("Animation_fkj5i")
 }
 
 [node name="OptionsOverlay" type="CanvasLayer"]

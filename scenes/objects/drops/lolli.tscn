@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://vu2nwmpd6abr"]
 
-[ext_resource type="Script" path="res://scripts/object/lolli.gd" id="1_mpee2"]
+[ext_resource type="Script" uid="uid://4j8obra63nbg" path="res://scripts/object/lolli.gd" id="1_mpee2"]
 [ext_resource type="Texture2D" uid="uid://dfwxwt2n6cdn5" path="res://sprites/tela de compra/lollipop.webp" id="1_o87d6"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_2hnja"]

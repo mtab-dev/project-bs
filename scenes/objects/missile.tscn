@@ -1,7 +1,7 @@
 [gd_scene load_steps=16 format=3 uid="uid://c4h4argu06p3r"]
 
 [ext_resource type="Texture2D" uid="uid://d3gioianm3uwm" path="res://sprites/bullets/azul/BALASdearmaAZUL1.png" id="1_2r5jf"]
-[ext_resource type="Script" path="res://scripts/object/missile.gd" id="1_8ebki"]
+[ext_resource type="Script" uid="uid://bh0u6r2qshygn" path="res://scripts/object/missile.gd" id="1_8ebki"]
 [ext_resource type="Texture2D" uid="uid://bovwrexg8u8ms" path="res://sprites/bullets/azul/BALASdearmaAZUL2.png" id="2_2uxeg"]
 [ext_resource type="Texture2D" uid="uid://cebkpticdlyhq" path="res://sprites/bullets/azul/BALASdearmaAZUL3.png" id="3_yx41l"]
 [ext_resource type="Texture2D" uid="uid://tx4by6mfnndx" path="res://sprites/bullets/red/BALASdearmaVERMELHO1.png" id="4_fvqbn"]

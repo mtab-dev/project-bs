@@ -1,6 +1,6 @@
 [gd_scene load_steps=20 format=3 uid="uid://bqacurjfbfx4i"]
 
-[ext_resource type="Script" path="res://scripts/ui/store.gd" id="1_5balh"]
+[ext_resource type="Script" uid="uid://b1a735fn1g86o" path="res://scripts/ui/store.gd" id="1_5balh"]
 [ext_resource type="Texture2D" uid="uid://bmi43rcqr6hb5" path="res://sprites/tela de compra/store-bg.webp" id="1_kor1q"]
 [ext_resource type="Theme" uid="uid://pb5cbhx6nufe" path="res://assets/themes/store-buttons.tres" id="3_eew04"]
 [ext_resource type="Texture2D" uid="uid://cule5aninb5qn" path="res://sprites/tela de compra/boots.webp" id="3_qxohv"]
@@ -66,9 +66,9 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_3vl6c"]
 _data = {
-"RESET": SubResource("Animation_m30f7"),
-"transIn": SubResource("Animation_ipbud"),
-"transOut": SubResource("Animation_lsi0c")
+&"RESET": SubResource("Animation_m30f7"),
+&"transIn": SubResource("Animation_ipbud"),
+&"transOut": SubResource("Animation_lsi0c")
 }
 
 [node name="store" type="CanvasLayer"]

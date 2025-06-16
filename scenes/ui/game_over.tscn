@@ -1,6 +1,6 @@
 [gd_scene load_steps=9 format=3 uid="uid://dmvh5dehkjruw"]
 
-[ext_resource type="Script" path="res://scripts/ui/gameOver.gd" id="1_cxfr2"]
+[ext_resource type="Script" uid="uid://cdx0xpvxmrjvx" path="res://scripts/ui/gameOver.gd" id="1_cxfr2"]
 [ext_resource type="Texture2D" uid="uid://bqhnqtmxhs5cn" path="res://sprites/ui/cutscenes/game-over.webp" id="2_cigat"]
 [ext_resource type="FontFile" uid="uid://l2iyicn4hyea" path="res://assets/font/thaleah_fat.ttf" id="3_5fln6"]
 [ext_resource type="Theme" uid="uid://cjoyqre1lp47" path="res://assets/themes/buttons.tres" id="3_xgjyq"]

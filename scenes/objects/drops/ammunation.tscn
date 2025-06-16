@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://bn0wvqmgpqpa7"]
 
-[ext_resource type="Script" path="res://scripts/object/ammunation.gd" id="1_6vee1"]
+[ext_resource type="Script" uid="uid://c556hukyi7twh" path="res://scripts/object/ammunation.gd" id="1_6vee1"]
 [ext_resource type="Texture2D" uid="uid://d4jee2xbus7w5" path="res://sprites/drops/caixa de muniçao.png" id="2_dgyds"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_3tgqq"]

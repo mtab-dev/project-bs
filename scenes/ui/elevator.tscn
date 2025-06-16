@@ -1,7 +1,7 @@
 [gd_scene load_steps=11 format=3 uid="uid://tqj5jdegh0er"]
 
 [ext_resource type="Texture2D" uid="uid://ck6ch8o4heb16" path="res://sprites/primeiro andar pronto/Porta elevador/ELEVADOR1.png" id="1_6isgd"]
-[ext_resource type="Script" path="res://scripts/ui/elevator.gd" id="1_aeyi4"]
+[ext_resource type="Script" uid="uid://b1gw8tr3kd6y4" path="res://scripts/ui/elevator.gd" id="1_aeyi4"]
 [ext_resource type="Texture2D" uid="uid://ceing2ucjcdq3" path="res://sprites/primeiro andar pronto/Porta elevador/ELEVADOR2.png" id="3_746nr"]
 [ext_resource type="Texture2D" uid="uid://vsn1aq4redo0" path="res://sprites/primeiro andar pronto/Porta elevador/ELEVADOR3.png" id="4_yuaes"]
 [ext_resource type="Texture2D" uid="uid://bt4il6nfn4ti4" path="res://sprites/primeiro andar pronto/Porta elevador/ELEVADOR4.png" id="5_gtlhw"]
